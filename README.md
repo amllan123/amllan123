@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web developement using MERN stack
 - 💞️ I’m looking to collaborate on building amazing webapp
 - 📫 How to reach me ...
+- amllanbhukta123@gmail.com
      
 <!---
 amllan123/amllan123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
