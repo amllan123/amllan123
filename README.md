@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amllan
-- 👀 I’m interested in Creating new things
-- 🌱 I’m currently learning Web developement using MERN stack
-- 💞️ I’m looking to collaborate on building amazing webapp
+- 👋 Hi, I’m Amllan
+- 👀 I’m interested in creating new things
+- 🌱 I’m currently learning Web development using the MERN stack
+- 💞️ I’m looking to collaborate on building amazing web apps
 - 📫 How to reach me ...
 - amllanbhukta123@gmail.com
      
