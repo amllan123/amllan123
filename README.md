@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amllan Bhukta
+- 👋 Hi, I’m Amllan Bhukta .
 - 👀 I’m interested in creating new things
 - 🌱 I’m currently learning Web development using the MERN stack
 - 💞️ I’m looking to collaborate on building amazing web apps
