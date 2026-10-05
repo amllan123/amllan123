@@ -80,7 +80,7 @@ Spec:
 
 ```mermaid
 flowchart LR
-    subgraph K8s["☸️ k3s on AWS (Terraform + Argo CD)"]
+    subgraph K8s["☸️ Kubernetes on AWS (Terraform + Argo CD)"]
         APP["Demo app<br/>with chaos switches"]
         OBS["Prometheus · Loki<br/>OpenTelemetry"]
         AM["Alertmanager"]
@@ -101,7 +101,7 @@ flowchart LR
 
 | Layer | Stack |
 |:--|:--|
-| **Infra** | Terraform · AWS · k3s · GitHub Actions · Argo CD |
+| **Infra** | Terraform · Kubernetes on AWS · GitHub Actions · Argo CD |
 | **Observability** | Prometheus · Alertmanager · Grafana · Loki · OpenTelemetry |
 | **LLM gateway** | Self-hosted Bifrost → Amazon Bedrock (Claude, Titan embeddings) |
 | **AIOps** | AI alert enricher · log anomaly detection (Drain3) · approval-based remediation agent · LLM evals in CI |
